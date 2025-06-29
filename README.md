@@ -22,3 +22,6 @@ cricket-game/
 ├── index.html         # Main HTML file
 ├── style.css          # Styling for the game
 └── script.js          # Game logic in JavaScript
+![Image](https://github.com/user-attachments/assets/e7898d79-8771-48e2-a3b2-07eed084e019)
+
+![Image](https://github.com/user-attachments/assets/e60f2100-3664-4346-bd5f-e7f743793b56)
